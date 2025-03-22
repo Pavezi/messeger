@@ -1,0 +1,11 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "messages",
+      "fields": [
+        { "fieldPath": "status", "order": "ASCENDING" },
+        { "fieldPath": "scheduledTime", "order": "ASCENDING" }
+      ]
+    }
+  ]
+}
